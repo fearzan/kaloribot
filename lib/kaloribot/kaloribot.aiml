@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+  <aiml version="1.0">
+
+    <category>
+      <pattern>Halo *</pattern>
+      <template>
+        Ketikan nama makanan untuk mengetahui jumlah kalori
+      </template>
+    </category>
+    
+    <category>
+      <pattern>Apel *</pattern>
+      <template>
+       Apel memiliki 90 kalori
+      </template>
+    </category>
+    
+    <category>
+      <pattern>Nanas *</pattern>
+      <template>
+        Nanas memiliki 80 kalori
+      </template>
+    </category>
+
+    <category>
+      <pattern>Jagung *</pattern>
+      <template>
+        jagung mempunyai kalori sebanyak 90.5 Kalor
+      </template>
+    </category>
+
+    <category>
+      <pattern>Ketan *</pattern>
+      <template>
+        Ketan mempunyai kalori sebanyak 217 Kalori
+      </template>
+    </category>
+
+    <category>
+      <pattern>Nasi *</pattern>
+      <template>
+        Nasi mempunyai kalori sebanyak 175 Kalori
+      </template>
+    </category>
+
+    <category>
+      <pattern>Singkong *</pattern>
+      <template>
+        Singkong mempunyai kalori sebanyak 145 Kalori
+      </template>
+    </category>
+
+    <category>
+      <pattern>Roti *</pattern>
+      <template>
+        Roti mempunyai kalori sebanyak 149 Kalori
+      </template>
+    </category>
+
+    <category>
+      <pattern>Talas *</pattern>
+      <template>
+        Talas mempunyai kalori sebanyak 98 Kalori
+      </template>
+    </category>
+
+     <category>
+      <pattern>Ubi *</pattern>
+      <template>
+        Ubi mempunyai kalori sebanyak 98 Kalori
+      </template>
+    </category>
+
+     <category>
+      <pattern>Mie *</pattern>
+      <template>
+        Mie mempunyai kalori sebanyak 168 Kalori
+      </template>
+    </category>
+
+     <category>
+      <pattern>Alpukat *</pattern>
+      <template>
+        Alpukat mempunyai kalori sebanyak 85 Kalori
+      </template>
+    </category>
+
+     <category>
+      <pattern>mangga *</pattern>
+      <template>
+        Mangga mempunyai kalori sebanyak 90 Kalori
+      </template>
+    </category>
+
+     <category>
+      <pattern>Pisang *</pattern>
+      <template>
+        Pisang mempunyai kalori sebanyak 105 Kalori
+      </template>
+    </category>
+
+     <category>
+      <pattern>Anggur *</pattern>
+      <template>
+        Talas mempunyai kalori sebanyak 60 Kalori
+      </template>
+    </category>
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+    
+
+
+    
+  </aiml>
