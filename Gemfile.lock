@@ -109,7 +109,7 @@ GEM
     mini_portile2 (2.4.0)
     minitest (5.13.0)
     mysql2 (0.5.3)
-    nokogiri (1.10.7)
+    nokogiri (1.10.8)
       mini_portile2 (~> 2.4.0)
     pg (0.21.0)
     programr (0.0.2)
